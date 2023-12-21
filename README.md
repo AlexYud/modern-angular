@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 - Angular 17
 - Ionic 7
 
-- **Using [The Movie DB API](https://www.themoviedb.org/settings/api). Remember to change the API key in the environment file.**
+- **Using [The Movie DB API](https://www.themoviedb.org/settings/api). Remember to insert the movieDB API key in the environment.ts file.**
 
 ## 📝 License
 
